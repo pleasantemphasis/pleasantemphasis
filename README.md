@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm a video journalist based in London passionate about open-source reporting and investigations
 
+🔭 I’m currently working on: my video journalism and my OSINT career
+📫 How to reach me: elena.morresi@theguardian.com
 <!--
 **pleasantemphasis/pleasantemphasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
